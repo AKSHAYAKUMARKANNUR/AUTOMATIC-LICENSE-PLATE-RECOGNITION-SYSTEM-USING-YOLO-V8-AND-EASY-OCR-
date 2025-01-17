@@ -1,0 +1,2 @@
+# AUTOMATIC-LICENSE-PLATE-RECOGNITION-SYSTEM-USING-YOLO-V8-AND-EASY-OCR-
+Automatic License Plate Recognition System Using YOLOv8 and EasyOCR 🚗🔍 This repository provides an Automatic License Plate Recognition (ALPR) system combining YOLOv8 for license plate detection and EasyOCR for text extraction. It offers an efficient solution for real-time license plate localization and text recognition in various environments.
